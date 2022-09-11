@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ashton Desk Application", "Ashton Desk Application\Ashton Desk Application.csproj", "{15E74AE1-C2E6-4878-B5EB-F898D988180F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15E74AE1-C2E6-4878-B5EB-F898D988180F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E74AE1-C2E6-4878-B5EB-F898D988180F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E74AE1-C2E6-4878-B5EB-F898D988180F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E74AE1-C2E6-4878-B5EB-F898D988180F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C07BCC8-D07D-4953-9172-A7A1BA5B4E95}
+	EndGlobalSection
+EndGlobal
